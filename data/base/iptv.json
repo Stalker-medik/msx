@@ -7,7 +7,7 @@
         "icon": "msx-white-soft:movie",
         "color": "msx-glass"
     },
-    "menu": [
+    "item": [
         {
             "icon": "movie",
             "label": "Каналы Беларусь",
