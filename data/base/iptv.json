@@ -1,17 +1,17 @@
 {
-    "type": "pages",
-    "headline": "IP TV",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,2,4",
-        "icon": "msx-white-soft:movie",
-        "color": "msx-glass"
-    },
-    "item": [
-        {
-            "icon": "movie",
-            "label": "Каналы Беларусь",
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://cloud.smhome.top/index.php/s/pywNcMAeYaNfknj/download/by.m3u"
-        }
-    ]
+   "type": "pages",
+   "headline": "IP TV",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "icon": "msx-white-soft:movie",
+      "color": "msx-glass"
+   },
+   "menu": [
+      {
+         "icon": "movie",
+         "label": "Каналы Беларусь",
+         "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://cloud.smhome.top/index.php/s/pywNcMAeYaNfknj/download/by.m3u"
+      }
+   ]
 }
