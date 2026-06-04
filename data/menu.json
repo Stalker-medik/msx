@@ -18,7 +18,7 @@
         {
             "icon": "smart-display",
             "label": "IT TV",
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://stalker-medik.github.io/msx/data/base/iptv.json"
+            "data": "https://stalker-medik.github.io/msx/data/base/iptv.json"
         },
         {
             "icon": "music-note",
