@@ -1,18 +1,18 @@
 {
-    "headline": "GitHub Pages Example",
+    "headline": "GitHub Pages Stalker-medik",
     "menu": [
         {
             "icon": "info",
-            "label": "Welcome",
+            "label": "Добро пожаловать",
             "data": "https://Stalker-medik.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
-            "label": "Base"
+            "label": "Основные"
         },
         {
             "icon": "movie",
-            "label": "Videos",
+            "label": "Фильмы и сериалы",
             "data": "https://stalker-medik.github.io/msx/data/base/videos.json"
         },
         {
