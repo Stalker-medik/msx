@@ -9,8 +9,8 @@
     },
     "items": [
         {
-            "title": "Video 1",
-            "playerLabel": "Video 1",
+            "title": "Seasonvar",
+            "playerLabel": "Seasonvar",
             "action": "content:https://seasonvar.club/msx/welcome.php"
         },
         {
