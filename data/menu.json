@@ -16,6 +16,11 @@
             "data": "https://stalker-medik.github.io/msx/data/base/videos.json"
         },
         {
+            "icon": "smart-display",
+            "label": "IT TV",
+            "data": "https://stalker-medik.github.io/msx/data/base/iptv.json"
+        },
+        {
             "icon": "music-note",
             "label": "Audios",
             "data": "https://stalker-medik.github.io/msx/data/base/audios.json"
