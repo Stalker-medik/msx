@@ -11,7 +11,7 @@
       {
          "icon": "movie",
          "label": "Каналы Беларусь",
-         "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://cloud.smhome.top/index.php/s/pywNcMAeYaNfknj/download/by.m3u"
+         "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://cloud.smhome.top/index.php/s/pywNcMAeYaNfknj/download/by.m3u"
       }
    ]
 }
