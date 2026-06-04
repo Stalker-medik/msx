@@ -1,1 +1,17 @@
-
+{
+    "type": "pages",
+    "headline": "IP TV",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "icon": "msx-white-soft:movie",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "Каналы Беларусь",
+            "playerLabel": "Каналы Беларусь",
+            "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&url=https://cloud.smhome.top/index.php/s/pywNcMAeYaNfknj/download/by.m3u"
+        }
+    ]
+}
