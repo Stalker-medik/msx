@@ -10,7 +10,7 @@
         {
             "title": "Seasonvar",
             "playerLabel": "Seasonvar",
-            "image":"https://seasonvar.ru/tpl/asset/img/cats.png",
+            "image": "https://seasonvar.ru/tpl/asset/img/cats.png",
             "action": "content:https://seasonvar.club/msx/welcome.php"
         }
     ]
