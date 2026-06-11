@@ -4,7 +4,7 @@
     "template": {
         "type": "separate",
         "layout": "0,0,2,4",
-        "icon": "msx-white-soft:movie",
+        "icon": "https://seasonvar.ru/tpl/asset/img/cats.png",
         "color": "msx-glass"
     },
     "items": [
