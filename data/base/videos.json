@@ -4,7 +4,8 @@
     "template": {
         "type": "separate",
         "layout": "0,0,2,4",
-        "color": "msx-glass"
+        "color": "msx-glass",
+        "imageFiller": "cover"
     },
     "items": [
         {
