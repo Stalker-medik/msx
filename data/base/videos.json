@@ -4,13 +4,13 @@
     "template": {
         "type": "separate",
         "layout": "0,0,2,4",
-        "icon": "https://seasonvar.ru/tpl/asset/img/cats.png",
         "color": "msx-glass"
     },
     "items": [
         {
             "title": "Seasonvar",
             "playerLabel": "Seasonvar",
+            "image":"https://seasonvar.ru/tpl/asset/img/cats.png",
             "action": "content:https://seasonvar.club/msx/welcome.php"
         }
     ]
